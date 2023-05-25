@@ -10,8 +10,6 @@ function start(cmd) {
 	})
 }
 
-start('clear')
-
 start('bash')
 
 console.log('Terminal ready to use!')
